@@ -1,18 +1,18 @@
-import profile1Img from '../assets/profile1.jpg';
-import profile2Img from '../assets/profile2.jpg';
-import profile3Img from '../assets/profile3.jpg';
-import profile4Img from '../assets/profile4.jpg';
-import profile5Img from '../assets/profile5.webp';
-import profile6Img from '../assets/profile6.jpg';
-import profile7Img from '../assets/profile7.jpg';
-import profile8Img from '../assets/profile8.jpg';
-import heroImg from '../assets/hero.jpg';
-import work1Img from '../assets/work1.jpg';
-import work2Img from '../assets/work2.jpg';
-import work3Img from '../assets/work3.jpg';
-import work4Img from '../assets/work4.jpg';
-import work5Img from '../assets/work5.jpg';
-import work6Img from '../assets/work6.jpg';
+import profile1Img from './profile1.jpg';
+import profile2Img from './profile2.jpg';
+import profile3Img from './profile3.jpg';
+import profile4Img from './profile4.jpg';
+import profile5Img from './profile5.webp';
+import profile6Img from './profile6.jpg';
+import profile7Img from './profile7.jpg';
+import profile8Img from './profile8.jpg';
+import heroImg from './hero.jpg';
+import work1Img from './work1.jpg';
+import work2Img from './work2.jpg';
+import work3Img from './work3.jpg';
+import work4Img from './work4.jpg';
+import work5Img from './work5.jpg';
+import work6Img from './work6.jpg';
 
 
 import { FaBullhorn, FaCode, FaMobileAlt, FaPaintBrush } from "react-icons/fa";
