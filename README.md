@@ -243,11 +243,11 @@ Every page and component is fully responsive:
 
 | Home Page | About Page |
 |-----------|------------|
-| ![Home](./screenshots/home.png) | ![About](./screenshots/about.png) |
+| ![Home](./screenshots/home_page.png) | ![About](./screenshots/about_page.png) |
 
 | Career Page | Support Page |
 |-------------|--------------|
-| ![Career](./screenshots/career.png) | ![Support](./screenshots/support.png) |
+| ![Career](./screenshots/career_page.png) | ![Support](./screenshots/support_page.png) |
 
 | Contact Page | Audio Player |
 |--------------|--------------|
